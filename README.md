@@ -24,15 +24,21 @@
 <p>Incident Handling: Proficiency in handling security incidents from initial detection and triage to containment, eradication, and recovery. <br>
 <p>Continuous Improvement: A mindset for continuous learning and improvement, staying updated with the latest trends, techniques, and tools in incident response and cybersecurity. <br> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networ Security</b>
   - [How to build a Network solution on Cisco Packet Tracer](https://github.com/muzable/Network-Security)
-  - 
+  -
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzable)](https://github.com/muzable/github-readme-stats)
+  
 <!-- COMMENT- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzable)](https://github.com/muzable/github-readme-stats)
+
+
