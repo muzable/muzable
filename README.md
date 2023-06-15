@@ -29,7 +29,7 @@
 <h1>👨‍💻 Cybersecurity Projects:</h1>
 
 - <b>Networ Security</b>
-  - [How to build a Network solution on Cisco Packet Tracer](https://github.com/muzable/Network-Security)
+  - [How to build a Network solution on Cisco Packet Tracer](https://github.com/muzable/Network-Security/tree/main/Cisco-Packet-Tracer)
   -
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
