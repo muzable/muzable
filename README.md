@@ -29,12 +29,17 @@
 
 <br>
 <br>
-<h1>👨‍💻 Cybersecurity Projects:</h1>
+<h1>:art: Cybersecurity Projects</h1>
 
 - <b>Networ Security</b>
   - [How to build a Network solution on Cisco Packet Tracer](https://github.com/muzable/Network-Security/tree/main/Cisco-Packet-Tracer)
   -
+<br>
+<h1>💼 Recently Added </h1>
 
+- <b>CyberSec-Case-Studies</b>
+  - [A case study based on Darknet Diaries podcast EP 103: CLOUD HOPPER](https://github.com/muzable/CyberSec-Case-Studies/tree/main/Darknet-Diaries-EP-103)
+  -
   
 <!-- COMMENT-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/muzable)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/muzable/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.muzable.net/)  
